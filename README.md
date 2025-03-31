@@ -1,13 +1,15 @@
 # blockchain-stimulation
 
-it is a simple blockchain simulation n python.
-it mimics the core feature of a blockchain . This stimulation includes the basic and core components like block structure , block number , timestamp, list of dummy transcation , hash of previous block , current block hash. it uses SHA-256 o genrate the block's hash based on its data and the previous block.
+It is a simple Blockchain Simulation in Python.
+It mimics the core feature of a Blockchain . This stimulation includes the basic and core components like Block Structure , Block Number(INDEX) , Timestamp, List of Dummy Transcation , Hash of Previous Block and Current Block Hash.
 
-it also implement a basic proof of work mechanism to make block creation computationally intensive.
+It uses SHA-256 to genrate the Block's Hash based on its data and the previous Block.
 
-the things it shows in output is blockchain , its details, and the mechanism to tamper with the data and demonstrate how the hain detects tampering.
+It also implement a basic Proof of Work mechanism to make Block creation computationally intensive.
+
+The things it shows in output is Blockchain , its details, and the mechanism to tamper with the data and demonstrate how the Chain detects tampering.
 
 
 
-thankyou!!
-akshat gupta
+THANKYOU!!
+AKSHAT GUPTA
